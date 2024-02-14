@@ -1,0 +1,28 @@
+.addList {
+  width: 300px;
+  margin: 40px auto;
+  background-color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  text-align: center;
+}
+.input {
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.add {
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.task {
+  display: flex;
+}
+
+.lineText {
+  text-decoration: line-through;
+}
